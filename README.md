@@ -17,6 +17,8 @@ Dr Hadia Almahli, Chemist at University College London @HadiaAmahli
 
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd 
 
+Dr Jelena Habjanic, Protein scientist University College London
+
 Daren Fearon, Senior Beamline Scientist Diamond Light Source 
 
 Jasmin Aschenbrenner, scientist at Diamond Light Source 
