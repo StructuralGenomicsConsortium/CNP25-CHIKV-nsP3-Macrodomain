@@ -19,9 +19,9 @@ Professor Matthew Todd, University College London. Head of Chemistry Networks at
 
 Dr Jelena Habjanic, Protein scientist University College London
 
-Daren Fearon, Senior Beamline Scientist Diamond Light Source 
+Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source 
 
-Jasmin Aschenbrenner, scientist at Diamond Light Source 
+Dr. Jasmin Aschenbrenner, scientist at Diamond Light Source 
 
  
 
