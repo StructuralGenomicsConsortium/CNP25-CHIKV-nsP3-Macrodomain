@@ -23,6 +23,10 @@ Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source
 
 Dr. Jasmin Aschenbrenner, scientist at Diamond Light Source 
 
+Denis Jacob Machado, Assistant Professor, Dept. of Bioinformatics and Genomics, UNC Charlotte
+
+Konstantin Popov, Associate Professor, Division of Chemical Biology and Medicinal Chemistry, UNC Charlotte
+
  
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
