@@ -21,7 +21,7 @@ Dr Jelena Habjanic, senior protein scientist University College London
 
 Dr. Wenjie Chen, protein scientist University College London
 
-Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source 
+Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source.
 
 Dr. Jasmin Aschenbrenner, scientist at Diamond Light Source 
 
