@@ -25,20 +25,16 @@ Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source
 
 Dr. Jasmin Aschenbrenner, scientist at Diamond Light Source 
 
-Dr. Warren Thompson, Diamond Light Source
+Dr. Warren Thompson, Diamond Light Source, @waztom
 
-Dr. Max Winokan, Computational Chemist at Diamond Light Source 
+Dr. Max Winokan, Computational Chemist at Diamond Light Source, @mwinokan 
 
-Kate Fieseler, Diamond Light Source
+Kate Fieseler, Diamond Light Source, @kate-fie
 
 Mathew Golding, Diamond Light Source
 
 Stephanie Wills, Diamond Light Source
 
-
-
-
- 
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.
 
