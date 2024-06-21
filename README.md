@@ -17,15 +17,26 @@ Dr Hadia Almahli, Chemist at University College London @HadiaAmahli
 
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd 
 
-Dr Jelena Habjanic, Protein scientist University College London
+Dr Jelena Habjanic, senior protein scientist University College London
+
+Dr. Wenjie Chen, protein scientist University College London
 
 Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source 
 
 Dr. Jasmin Aschenbrenner, scientist at Diamond Light Source 
 
-Denis Jacob Machado, Assistant Professor, Dept. of Bioinformatics and Genomics, UNC Charlotte
+Dr. Warren Thompson, 
 
-Konstantin Popov, Associate Professor, Division of Chemical Biology and Medicinal Chemistry, UNC Charlotte
+Dr. Max Winokan, Computational Chemist at Diamond Light Source 
+
+Kate Fieseler, 
+
+Mathew Golding, 
+
+Stephanie Wills,
+
+
+
 
  
 
