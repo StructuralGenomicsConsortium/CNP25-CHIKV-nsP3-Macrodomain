@@ -25,15 +25,15 @@ Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source
 
 Dr. Jasmin Aschenbrenner, scientist at Diamond Light Source 
 
-Dr. Warren Thompson, 
+Dr. Warren Thompson, Diamond Light Source
 
 Dr. Max Winokan, Computational Chemist at Diamond Light Source 
 
-Kate Fieseler, 
+Kate Fieseler, Diamond Light Source
 
-Mathew Golding, 
+Mathew Golding, Diamond Light Source
 
-Stephanie Wills,
+Stephanie Wills, Diamond Light Source
 
 
 
