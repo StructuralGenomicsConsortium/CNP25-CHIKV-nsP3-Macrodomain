@@ -33,7 +33,7 @@ Kate Fieseler, Diamond Light Source, @kate-fie
 
 Mathew Golding, Diamond Light Source
 
-Stephanie Wills, Diamond Light Source
+
 
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.
