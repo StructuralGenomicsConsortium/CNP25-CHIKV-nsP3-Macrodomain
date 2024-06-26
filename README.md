@@ -19,7 +19,7 @@ Professor Matthew Todd, University College London. Head of Chemistry Networks at
 
 Dr Jelena Habjanic, senior protein scientist University College London
 
-Dr. Wenjie Chen, Protein Scientist University College London
+Dr. Wenjie Chen, Protein Scientist University College London, @Wenjie-Ch 
 
 Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source. 
 
