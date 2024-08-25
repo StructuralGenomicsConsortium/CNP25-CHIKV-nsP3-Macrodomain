@@ -6,7 +6,7 @@ You contribute synthetic chemistry and in return the SGC/READDI offers biology. 
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
-For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP25-CHIKV-nsP3-Macrodomain/wiki) or check out the preprint on the fragment screen that has been published [here](https://doi.org/10.1101/2024.08.23.609196) 
+For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP25-CHIKV-nsP3-Macrodomain/wiki) or check out the preprint on the fragment screen that has been published [here](https://doi.org/10.1101/2024.08.23.609196).
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
