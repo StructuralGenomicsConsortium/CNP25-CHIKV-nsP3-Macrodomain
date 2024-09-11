@@ -17,6 +17,8 @@ Chemistry:
 
 Dr Hadia Almahli, Chemist at University College London @HadiaAmahli
 
+Dr. Rahman Saleem, Project coordinator at University College London @rahmanszsaleem
+
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd 
 
 GCI and TSA:
